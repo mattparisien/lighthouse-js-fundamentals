@@ -1,9 +1,10 @@
-function reverseString(reverseMe) {
-  let reversed = "";
-  for (i=reverseMe.length - 1; i>=0; i--) {
-    reversed += reverseMe[i]; 
-   }
-   return reversed;
+function add (x, y) {
+return x+y;
 }
 
-console.log("My reversed name is" + " " + reverseString("Matt"));
+function divide (x,y) {
+  return x/y;
+}
+
+var sun = add(5,6,)
+

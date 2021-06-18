@@ -3,3 +3,6 @@ const sayHello = function (name) {
 }
 
 sayHello("Matt");
+sayHello("Caroline");
+sayHello("Denis");
+sayHello("Tessa");
